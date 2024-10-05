@@ -5,4 +5,5 @@ Este projeto consiste em uma análise de dados voltada para a Secretaria da Admi
 ## Indicadores analisados:
 Comparação entre valinicial e valempenhado por localizadorgasto: relação entre as variáveis de faturamente em relação as variáveis qualitativas de localizadorgasto, ou seja, o local ou região dos gastos em questão.<br />
 retretsretstesttest<br />
+
 testestestestestestestes<br />
