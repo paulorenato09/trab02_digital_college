@@ -9,9 +9,9 @@ Este projeto consiste em uma análise de dados voltada para a Secretaria da Admi
 
 **Correlação entre valinicial e valempenhado**: O indicador de correlação entre as variáveis valinicial e valempenhado mede a força e a direção da relação entre o valor previsto inicialmente e o valor efetivamente empenhado.<br />
 
-**Distribuição de iduso**: Distruibuição dos os valores de iduso para a análise em questão<br />
+**Distribuição de iduso**: Distruibuição dos os valores de iduso para a análise em questão.<br />
 
-**Distribuição de UG**: Distruibuição dos os valores de ug para a análise em questão, provando a referência é a SAP<br />
+**Distribuição de UG**: Distruibuição dos os valores de ug para a análise em questão, provando a referência é a SAP.<br />
 
-**Distribuição de Localizador de Gasto**: Distruibuição dos os valores de localizadorgasto para a análise em questão<br />
+**Distribuição de Localizador de Gasto**: Distruibuição dos os valores de localizadorgasto para a análise em questão.<br />
 
